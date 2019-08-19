@@ -1,0 +1,10 @@
+install devilspie2 from gnu savannah... just run 'make' then copy the binary
+from bin/ to your binary PATH
+
+put this stuff in ~/.config/devilspie2/
+
+then run devilspie2:
+
+$ devilspie2 -d
+
+the -d switch is to see debug output but is not necessary
